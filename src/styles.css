@@ -1,7 +1,62 @@
-@charset "utf-8";
+@charset "UTF-8";
 /* CSS Document */
+
 body {
-    
+
     background-color: #00527E;
-   
+
+    width: 200px;
+    height: 56px;
+    
+    opacity: 1px;
+    top: 362px;
+    left: 620px;
+
 }
+img{
+    background: #6CC1EE;
+   
+    width: 322px;
+    height: 323px;
+
+    opacity: 1px;
+    top: 21px;
+    left: 559px;
+    border-radius: 69px;
+
+
+  }
+  h1{
+    text-align: center;
+    color: #E9E9E9;
+    width: 200px;
+    height: 56px;
+
+    opacity: 1px;
+    top: 362px;
+    left: 620px;
+ }
+
+    h2{
+        text-align: center;
+        color:#E9E9E9;
+        width: 400px;
+        height: 56px;
+
+        opacity: 1px;
+        top: 430px;
+        left: 520px;
+    
+    }
+    p
+    {
+        text-align: left;
+        color:#E9E9E9;
+        width: 400px;
+        height: 56px;
+        
+        opacity: 1px;
+        top: 500px;
+        left: 520px;
+    
+    }
