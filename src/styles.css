@@ -35,6 +35,14 @@ img{
     opacity: 1px;
     top: 362px;
     left: 620px;
+
+    font-family: Roboto;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 48px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
  }
 
     h2{
@@ -46,17 +54,33 @@ img{
         opacity: 1px;
         top: 430px;
         left: 520px;
+
+        font-family: Roboto;
+        font-weight: 400;
+        font-style: Regular;
+        font-size: 36px;
+        line-height: 100%;
+        letter-spacing: 0%;
+
     
     }
     p
     {
-        text-align: left;
+        text-align: c;
         color:#E9E9E9;
         width: 400px;
         height: 56px;
-        
+
         opacity: 1px;
         top: 500px;
         left: 520px;
+
+        font-family: Roboto;
+font-weight: 400;
+font-style: Regular;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+
     
     }
