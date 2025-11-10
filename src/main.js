@@ -1,1 +1,3 @@
-window.alert("Bem vindo")
+function Acessar() {
+    alert("ok")
+}
