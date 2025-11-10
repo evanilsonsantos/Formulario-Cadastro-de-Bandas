@@ -24,8 +24,8 @@ img{
     left: 559px;
     border-radius: 69px;
 
+    }
 
-  }
   h1{
     text-align: center;
     color: #E9E9E9;
@@ -43,7 +43,26 @@ img{
     line-height: 100%;
     letter-spacing: 0%;
 
- }
+    }
+    button{
+        background: #FF6E00;
+        border-radius: 8px;
+        width: 111px;
+        height: 37px;
+
+        opacity: 1px;
+        top: 550px;
+        left: 595px;
+
+        font-family: Roboto;
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 16px;
+        line-height: 100%;
+        letter-spacing: 0%;
+
+    
+    }
 
     h2{
         text-align: center;
